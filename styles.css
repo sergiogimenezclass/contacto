@@ -1,3 +1,12 @@
+.inical__bg {
+    background-color: aquamarine;
+    padding-left: 14px;
+    padding-top: 8px;
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+}
+
 .footer {
     position: fixed;
     bottom: 0px;
