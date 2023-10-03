@@ -12,3 +12,31 @@
     bottom: 0px;
     width: 100%;
 }
+
+.card-header {
+    height: 250px;
+    width: 100%;
+    background-color: #95bcf7;
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+}
+
+.card-header-top, .card-header-bottom {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-header-middle {
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inical {
+    font-size: 90px;
+    color: #fff;
+    font-weight: bolder;
+}
