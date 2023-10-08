@@ -1,4 +1,4 @@
-.inical__bg {
+.inicial__bg {
     background-color: aquamarine;
     padding-left: 14px;
     padding-top: 8px;
@@ -35,7 +35,7 @@
     justify-content: center;
 }
 
-.inical {
+.card-header-middle-inical {
     font-size: 90px;
     color: #fff;
     font-weight: bolder;
